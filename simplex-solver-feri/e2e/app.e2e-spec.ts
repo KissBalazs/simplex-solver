@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('simplex-solver App', () => {
+describe('simplex-solver-feri App', () => {
   let page: AppPage;
 
   beforeEach(() => {
